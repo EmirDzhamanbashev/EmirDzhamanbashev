@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mario Arriola P.
+- 👋 Hi, I’m Emir Bashev
 ## Languages and Frameworks:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -10,7 +10,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
-![Marios's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARRIOLALEO&show_icons=true&theme=vue)
 
 <!---
 ARRIOLALEO/ARRIOLALEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
