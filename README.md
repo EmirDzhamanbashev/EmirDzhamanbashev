@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**EmirDzhamanbashev/EmirDzhamanbashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m Mario Arriola P.
 ## Languages and Frameworks:
 
@@ -16,5 +9,10 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
--->
 
+![Marios's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARRIOLALEO&show_icons=true&theme=vue)
+
+<!---
+ARRIOLALEO/ARRIOLALEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
